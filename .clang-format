@@ -1,0 +1,13 @@
+Language: Cpp
+
+AlignEscapedNewlines: DontAlign
+AllowAllArgumentsOnNextLine: false
+AllowShortFunctionsOnASingleLine: Empty
+AlwaysBreakTemplateDeclarations: Yes
+BreakBeforeConceptDeclarations: true
+ColumnLimit: 100
+IndentRequires: false
+PointerAlignment: Left
+SpaceAfterTemplateKeyword: false
+Standard: c++20
+UseTab: Never

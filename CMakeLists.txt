@@ -6,7 +6,7 @@ message( STATUS "Project name: " ${PROJECT_NAME} )
 
 include(GNUInstallDirs)
 
-set ( CMAKE_CXX_STANDARD 11 )
+set ( CMAKE_CXX_STANDARD 20 )
 
 if ( ZOOMFIX )
 add_definitions( -DX_DISPLAY_FIX )
